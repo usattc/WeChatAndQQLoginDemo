@@ -5,8 +5,14 @@
 
 2. 需要导入如下几个Framework, 否则编译过程会报错:
 libstdc++.dylib
+
+
 SystemConfiguration.framework
+
+
 libsqlite3.0
+
+
 libz.dylib
 
 3. 微信和QQ的AppID等需要自行注册
