@@ -4,16 +4,7 @@
 1. 开发者在利用友盟社会化组件时需要到友盟注册Key, 详见 http://dev.umeng.com/social/ios/quick-integration#2
 
 2. 需要导入如下几个Framework, 否则编译过程会报错:
-libstdc++.dylib
-
-
-SystemConfiguration.framework
-
-
-libsqlite3.0
-
-
-libz.dylib
+libstdc++.dylib、SystemConfiguration.framework、libsqlite3.0、libz.dylib
 
 3. 微信和QQ的AppID等需要自行注册
 详见:
